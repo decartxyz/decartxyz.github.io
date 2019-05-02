@@ -17,14 +17,14 @@
   <body>
 
       <header>
-        <h1><a href="/">{{ site.title | default: site.github.repository_name }}</a></h1>
+        <h1><a href="/" style="text-decoration: none;">{{ site.title | default: site.github.repository_name }}</a></h1>
         <p>{{ site.description | default: site.github.project_tagline }}</p>
       </header>
 
       <div id="banner">
         <span id="logo"></span>
 
-        <a href="{{ site.github.repository_url }}" class="button fork"><strong>View On GitHub</strong></a>
+        <a href="{{ site.github.repository_url }}" class="button fork"><strong>Главная</strong></a>
         {% if site.show_downloads %}
           <div class="downloads">
             <span>Downloads:</span>
