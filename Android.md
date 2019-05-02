@@ -2,7 +2,7 @@
 
 ## Хаки
 
-[Бэкап Google Authenticator]()
+[Бэкап Google Authenticator](Бэкап Google Authenticator)
 
 # Телефоны
 
@@ -10,4 +10,4 @@
 
 ### Прошивки
 
-[LINEAGE 15.1]()
+[LINEAGE 15.1](LINEAGE 15.1)

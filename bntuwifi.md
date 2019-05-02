@@ -8,7 +8,7 @@ $ echo 'nameserver 172.16.0.1' | sudo tee --append /etc/resolv.conf
 ```
 
 Далей спрабуем праз браўзер залагініцца пад лагінам/паролем па адрасе (ці зрабіўшы любы запыт - павінен адбыцца рэдырэкт):
-[http://www.gstatic.com/generate_204]()
+[http://www.gstatic.com/generate_204](http://www.gstatic.com/generate_204)
 
 Як правіла пасля гэтых дзеянняў можна карыстацца інэтам. Калі раптам не запрацаваў, то можна праверыць ці выдаўся роўтэрам IP-адрас, зрабіць гэта можна так:
 
@@ -24,7 +24,7 @@ sudo dhclient wlan0
 ```
 
 Комментарий от vett0:
-Вместо первой команды я сделал *Part 1: Changing your DNS* из статьи [https://medium.freecodecamp.org/how-to-setup-a-vpn-for-free-or-paid-on-linux-62e1a93d04f3](), только поставив `prepend domain-name-servers 172.16.0.1, 8.8.8.8;` в файл `/etc/dhcp/dhclient.conf`. Этот туториал мне не помог, а мой способ - помог. Возможно, он поможет кому-то ещё :)
+Вместо первой команды я сделал *Part 1: Changing your DNS* из статьи [https://medium.freecodecamp.org/how-to-setup-a-vpn-for-free-or-paid-on-linux-62e1a93d04f3](https://medium.freecodecamp.org/how-to-setup-a-vpn-for-free-or-paid-on-linux-62e1a93d04f3), только поставив `prepend domain-name-servers 172.16.0.1, 8.8.8.8;` в файл `/etc/dhcp/dhclient.conf`. Этот туториал мне не помог, а мой способ - помог. Возможно, он поможет кому-то ещё :)
 
 ## для карыстальнікаў Windows
 
