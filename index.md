@@ -2,7 +2,7 @@
 format: Markdown
 ...
 
-*Вики переехала на github pages, поэтому для редактирования необходима регистрация на [github.com](https://github.com)*<br>
+*Вики переехала на github pages, поэтому для редактирования необходима регистрация на [github.com](https://github.com)* <br>
 *Подробности [тут](/register)*
 
 # Доступные разделы
