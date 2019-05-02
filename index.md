@@ -2,7 +2,7 @@
 format: Markdown
 ...
 
-*Актуальная копия всей wiki может быть склонирована и находится по адресу:* [https://github.com/soko1/decartwiki]()
+*Вики переехала на github pages, поэтому для редактирования необходима регистрация на [github.com](https://github.com)*
 
 # Доступные разделы
 
