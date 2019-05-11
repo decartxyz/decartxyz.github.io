@@ -13,6 +13,8 @@ format: Markdown
 
 [Android](Android)
 
+[Веб](Веб)
+
 ## Изучение английского
 [@pronouncewordbot](http://t.me/pronouncewordbot) - шлёшь боту любое английское слово и получаешь начитку этого слова живым человеком<br>
 [@beganbegunbot](http://t.me/beganbegunbot) - telegram-бот со всеми неправильными глаголами<br>
