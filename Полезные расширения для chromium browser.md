@@ -9,3 +9,7 @@
 [Push to Kindle](https://chrome.google.com/webstore/detail/push-to-kindle/pnaiinchjaonopoejhknmgjingcnaloc) - сконвертировать и переслать любую страницу на kindle
 
 [Onetab](https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall) - переводит все открытые вкладки браузера в отдельную html-страницу со ссылками и заголовками
+
+[Resolution test](https://chrome.google.com/webstore/detail/resolution-test/idhfcdbheobinplaamokffboaccidbal) - проверка сайта на работоспособность при разных разрешениях экрана
+
+[Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg) - показывает какие технологии и фреймворки применяются на сайте
