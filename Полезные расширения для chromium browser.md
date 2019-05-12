@@ -7,3 +7,5 @@
 [Kassi Share - Send to Kodi](https://chrome.google.com/webstore/detail/kassi-share-send-to-kodi/gbghegmimhjemkhpimohkdopkeahldbh) - переслать любое видео по клику на kodi 
 
 [Push to Kindle](https://chrome.google.com/webstore/detail/push-to-kindle/pnaiinchjaonopoejhknmgjingcnaloc) - сконвертировать и переслать любую страницу на kindle
+
+[Onetab](https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall) - переводит все открытые вкладки браузера в отдельную html-страницу со ссылками и заголовками
