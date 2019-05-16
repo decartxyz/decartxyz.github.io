@@ -13,3 +13,4 @@
 [Resolution test](https://chrome.google.com/webstore/detail/resolution-test/idhfcdbheobinplaamokffboaccidbal) - проверка сайта на работоспособность при разных разрешениях экрана
 
 [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg) - показывает какие технологии и фреймворки применяются на сайте
+

@@ -1,0 +1,4 @@
+
+Раскладки клавиатуры в современных дистрибах. Под юзером выполнить:
+
+`localectl --no-convert set-x11-keymap us,by,ru pc105 , grp:caps_toggle`
