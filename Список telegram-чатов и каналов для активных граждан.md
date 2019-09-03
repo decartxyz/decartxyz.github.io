@@ -10,12 +10,12 @@
 * Дендрохауэр_ М И Н С К: [https://t.me/dendrohayer](https://t.me/dendrohayer)<br>
 *"Озеленение Минска. Мы пытаемся подходить к  озеленению с научной точки зрения"*
 
-* Минское велосипедное общество [https://t.me/mvochat](https://t.me/mvochat)
+* Минское велосипедное общество [https://t.me/mvochat](https://t.me/mvochat)<br>
 * "Чат минского велосипедного общества (МВО) — развитие велодвижения и велоинфраструктуры в Минске и Минской области."*
 
 ### Браслав
 
-* Чат braslaw.by: [https://t.me/braslawby_chat](https://t.me/braslawby_chat)
+* Чат braslaw.by: [https://t.me/braslawby_chat](https://t.me/braslawby_chat)<br>
 *"Обмен актуальной инфой и мыслями: что творится в Браславе, куда наш город движется, почему мы здесь живем:-)"*
 
 ### Витебск
